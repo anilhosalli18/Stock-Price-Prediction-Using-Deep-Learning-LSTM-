@@ -41,7 +41,7 @@ In this section, we present the results of our stock market prediction experimen
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
 - **Email:** anilhosalli800@gmail.com.com
-- **LinkedIn:** [Adarsh Kumar Singh](www.linkedin.com/in/anilhosalli18)
+- **LinkedIn:** (www.linkedin.com/in/anilhosalli18)
 
 Let's make accurate stock market predictions together!
 
